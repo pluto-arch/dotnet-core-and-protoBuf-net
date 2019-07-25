@@ -23,16 +23,16 @@ namespace CoreHost
                 var configuration = GetConfiguration();
                 AppName = configuration["AppName"];
                 Log.Logger = CreateSerilogLogger(configuration);
-                Log.Information("配置web主机 ({ApplicationContext})...", AppName);
+                Log.Information("配置Server主机 ({ApplicationContext})...", AppName);
                 var host = BuildWebHost(configuration, args);
-                Log.Information("Starting web host ({ApplicationContext})...", AppName);
+                Log.Information("启动Server ({ApplicationContext})...", AppName);
                 host.Run();
 
                 return 0;
             }
             catch (Exception ex)
             {
-                Log.Fatal(ex, "Program terminated unexpectedly ({ApplicationContext})!", AppName);
+                Log.Fatal(ex, "程序意外终止 ({ApplicationContext})!", AppName);
                 return 1;
             }
             finally

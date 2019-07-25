@@ -1,0 +1,9 @@
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\NetworkTools\bin\Debug\netcoreapp2.2\NetworkTools.deps.json
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\NetworkTools\bin\Debug\netcoreapp2.2\NetworkTools.dll
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\NetworkTools\obj\Debug\netcoreapp2.2\NetworkTools.csprojAssemblyReference.cache
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\NetworkTools\obj\Debug\netcoreapp2.2\NetworkTools.csproj.CoreCompileInputs.cache
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\NetworkTools\obj\Debug\netcoreapp2.2\NetworkTools.AssemblyInfoInputs.cache
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\NetworkTools\obj\Debug\netcoreapp2.2\NetworkTools.AssemblyInfo.cs
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\NetworkTools\bin\Debug\netcoreapp2.2\NetworkTools.pdb
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\NetworkTools\obj\Debug\netcoreapp2.2\NetworkTools.dll
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\NetworkTools\obj\Debug\netcoreapp2.2\NetworkTools.pdb

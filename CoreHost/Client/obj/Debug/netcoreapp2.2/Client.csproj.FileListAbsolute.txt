@@ -26,3 +26,6 @@ E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\Client\obj\D
 E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\Client\obj\Debug\netcoreapp2.2\Client.csproj.CopyComplete
 E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\Client\obj\Debug\netcoreapp2.2\Client.dll
 E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\Client\obj\Debug\netcoreapp2.2\Client.pdb
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\Client\bin\Debug\netcoreapp2.2\appsettings.json
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\Client\bin\Debug\netcoreapp2.2\NetworkTools.dll
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\Client\bin\Debug\netcoreapp2.2\NetworkTools.pdb

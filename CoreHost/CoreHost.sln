@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Client", "Client\Client.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataModel", "DataModel\DataModel.csproj", "{D8EAC977-F23B-482E-A3E1-DFA99B01C119}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkTools", "NetworkTools\NetworkTools.csproj", "{5587DE69-1ECE-4DC9-BCD2-66F50055A40D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D8EAC977-F23B-482E-A3E1-DFA99B01C119}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8EAC977-F23B-482E-A3E1-DFA99B01C119}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8EAC977-F23B-482E-A3E1-DFA99B01C119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5587DE69-1ECE-4DC9-BCD2-66F50055A40D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5587DE69-1ECE-4DC9-BCD2-66F50055A40D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5587DE69-1ECE-4DC9-BCD2-66F50055A40D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5587DE69-1ECE-4DC9-BCD2-66F50055A40D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
