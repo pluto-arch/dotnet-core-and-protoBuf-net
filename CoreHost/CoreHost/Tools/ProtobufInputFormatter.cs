@@ -37,6 +37,14 @@ namespace CoreHost.Tools
         {
             var typeModel = TypeModel.Create();
             typeModel.UseImplicitZeroDefaults = false;
+            Assembly ass = Assembly.GetAssembly(typeof(IBaseDto));
+            foreach (var type in ass.GetTypes())
+            {
+                if (type != typeof(IBaseDto) && (type.GetInterface(nameof(IBaseDto)).Name == nameof(IBaseDto)))
+                {
+                    typeModel.Add(typeof(DateTimeOffset), false).SetSurrogate(type);
+                }
+            }
             typeModel.Add(typeof(DateTimeOffset), false).SetSurrogate(typeof(TestResponseDto));
             return typeModel;
         }

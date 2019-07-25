@@ -7,3 +7,12 @@ C:\Users\zhangyulong\source\repos\CoreHost\DataModel\obj\Debug\netcoreapp2.2\Dat
 C:\Users\zhangyulong\source\repos\CoreHost\DataModel\bin\Debug\netcoreapp2.2\DataModel.pdb
 C:\Users\zhangyulong\source\repos\CoreHost\DataModel\obj\Debug\netcoreapp2.2\DataModel.dll
 C:\Users\zhangyulong\source\repos\CoreHost\DataModel\obj\Debug\netcoreapp2.2\DataModel.pdb
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\DataModel\bin\Debug\netcoreapp2.2\DataModel.deps.json
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\DataModel\bin\Debug\netcoreapp2.2\DataModel.dll
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\DataModel\bin\Debug\netcoreapp2.2\DataModel.pdb
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\DataModel\obj\Debug\netcoreapp2.2\DataModel.csprojAssemblyReference.cache
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\DataModel\obj\Debug\netcoreapp2.2\DataModel.csproj.CoreCompileInputs.cache
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\DataModel\obj\Debug\netcoreapp2.2\DataModel.AssemblyInfoInputs.cache
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\DataModel\obj\Debug\netcoreapp2.2\DataModel.AssemblyInfo.cs
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\DataModel\obj\Debug\netcoreapp2.2\DataModel.dll
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\DataModel\obj\Debug\netcoreapp2.2\DataModel.pdb

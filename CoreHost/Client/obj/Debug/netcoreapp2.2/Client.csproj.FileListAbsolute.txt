@@ -12,3 +12,17 @@ C:\Users\zhangyulong\source\repos\CoreHost\Client\bin\Debug\netcoreapp2.2\DataMo
 C:\Users\zhangyulong\source\repos\CoreHost\Client\obj\Debug\netcoreapp2.2\Client.csproj.CopyComplete
 C:\Users\zhangyulong\source\repos\CoreHost\Client\obj\Debug\netcoreapp2.2\Client.dll
 C:\Users\zhangyulong\source\repos\CoreHost\Client\obj\Debug\netcoreapp2.2\Client.pdb
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\Client\bin\Debug\netcoreapp2.2\Client.deps.json
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\Client\bin\Debug\netcoreapp2.2\Client.runtimeconfig.json
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\Client\bin\Debug\netcoreapp2.2\Client.runtimeconfig.dev.json
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\Client\bin\Debug\netcoreapp2.2\Client.dll
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\Client\bin\Debug\netcoreapp2.2\Client.pdb
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\Client\bin\Debug\netcoreapp2.2\DataModel.dll
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\Client\bin\Debug\netcoreapp2.2\DataModel.pdb
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\Client\obj\Debug\netcoreapp2.2\Client.csprojAssemblyReference.cache
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\Client\obj\Debug\netcoreapp2.2\Client.csproj.CoreCompileInputs.cache
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\Client\obj\Debug\netcoreapp2.2\Client.AssemblyInfoInputs.cache
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\Client\obj\Debug\netcoreapp2.2\Client.AssemblyInfo.cs
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\Client\obj\Debug\netcoreapp2.2\Client.csproj.CopyComplete
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\Client\obj\Debug\netcoreapp2.2\Client.dll
+E:\养生\Github\protoBuf-net\dotnet-core-and-protoBuf-net\CoreHost\Client\obj\Debug\netcoreapp2.2\Client.pdb

@@ -24,11 +24,16 @@ namespace CoreHost.Controllers
             };
         }
 
-        [HttpGet("Input")]
+        [HttpPost("Input")]
         public TestResponseDto Input(TestResponseDto request)
         {
             Log.Information($"{JsonConvert.SerializeObject(request)}");
-            return request;
+            return new TestResponseDto
+            {
+                Name = "this ",
+                FirstName = "is ",
+                LastName = "post "
+            };
         }
 
     }
