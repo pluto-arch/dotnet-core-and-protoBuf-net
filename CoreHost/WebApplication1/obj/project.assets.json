@@ -12133,11 +12133,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zhangyulong\\source\\repos\\CoreHost\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "E:\\养生\\Github\\protoBuf-net\\dotnet-core-and-protoBuf-net\\CoreHost\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\zhangyulong\\source\\repos\\CoreHost\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "E:\\养生\\Github\\protoBuf-net\\dotnet-core-and-protoBuf-net\\CoreHost\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\zhangyulong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zhangyulong\\source\\repos\\CoreHost\\WebApplication1\\obj\\",
+      "outputPath": "E:\\养生\\Github\\protoBuf-net\\dotnet-core-and-protoBuf-net\\CoreHost\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

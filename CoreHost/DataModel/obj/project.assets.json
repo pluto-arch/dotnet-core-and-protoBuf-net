@@ -966,11 +966,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zhangyulong\\source\\repos\\CoreHost\\DataModel\\DataModel.csproj",
+      "projectUniqueName": "E:\\养生\\Github\\protoBuf-net\\dotnet-core-and-protoBuf-net\\CoreHost\\DataModel\\DataModel.csproj",
       "projectName": "DataModel",
-      "projectPath": "C:\\Users\\zhangyulong\\source\\repos\\CoreHost\\DataModel\\DataModel.csproj",
+      "projectPath": "E:\\养生\\Github\\protoBuf-net\\dotnet-core-and-protoBuf-net\\CoreHost\\DataModel\\DataModel.csproj",
       "packagesPath": "C:\\Users\\zhangyulong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zhangyulong\\source\\repos\\CoreHost\\DataModel\\obj\\",
+      "outputPath": "E:\\养生\\Github\\protoBuf-net\\dotnet-core-and-protoBuf-net\\CoreHost\\DataModel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

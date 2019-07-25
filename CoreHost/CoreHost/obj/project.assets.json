@@ -11704,11 +11704,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zhangyulong\\source\\repos\\CoreHost\\CoreHost\\CoreHost.csproj",
+      "projectUniqueName": "E:\\养生\\Github\\protoBuf-net\\dotnet-core-and-protoBuf-net\\CoreHost\\CoreHost\\CoreHost.csproj",
       "projectName": "CoreHost",
-      "projectPath": "C:\\Users\\zhangyulong\\source\\repos\\CoreHost\\CoreHost\\CoreHost.csproj",
+      "projectPath": "E:\\养生\\Github\\protoBuf-net\\dotnet-core-and-protoBuf-net\\CoreHost\\CoreHost\\CoreHost.csproj",
       "packagesPath": "C:\\Users\\zhangyulong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zhangyulong\\source\\repos\\CoreHost\\CoreHost\\obj\\",
+      "outputPath": "E:\\养生\\Github\\protoBuf-net\\dotnet-core-and-protoBuf-net\\CoreHost\\CoreHost\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11728,8 +11728,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\zhangyulong\\source\\repos\\CoreHost\\DataModel\\DataModel.csproj": {
-              "projectPath": "C:\\Users\\zhangyulong\\source\\repos\\CoreHost\\DataModel\\DataModel.csproj"
+            "E:\\养生\\Github\\protoBuf-net\\dotnet-core-and-protoBuf-net\\CoreHost\\DataModel\\DataModel.csproj": {
+              "projectPath": "E:\\养生\\Github\\protoBuf-net\\dotnet-core-and-protoBuf-net\\CoreHost\\DataModel\\DataModel.csproj"
             }
           }
         }
