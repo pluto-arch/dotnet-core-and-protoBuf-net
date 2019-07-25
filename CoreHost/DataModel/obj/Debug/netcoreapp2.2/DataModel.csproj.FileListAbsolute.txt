@@ -1,0 +1,9 @@
+C:\Users\zhangyulong\source\repos\CoreHost\DataModel\bin\Debug\netcoreapp2.2\DataModel.deps.json
+C:\Users\zhangyulong\source\repos\CoreHost\DataModel\bin\Debug\netcoreapp2.2\DataModel.dll
+C:\Users\zhangyulong\source\repos\CoreHost\DataModel\obj\Debug\netcoreapp2.2\DataModel.csprojAssemblyReference.cache
+C:\Users\zhangyulong\source\repos\CoreHost\DataModel\obj\Debug\netcoreapp2.2\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\zhangyulong\source\repos\CoreHost\DataModel\obj\Debug\netcoreapp2.2\DataModel.AssemblyInfoInputs.cache
+C:\Users\zhangyulong\source\repos\CoreHost\DataModel\obj\Debug\netcoreapp2.2\DataModel.AssemblyInfo.cs
+C:\Users\zhangyulong\source\repos\CoreHost\DataModel\bin\Debug\netcoreapp2.2\DataModel.pdb
+C:\Users\zhangyulong\source\repos\CoreHost\DataModel\obj\Debug\netcoreapp2.2\DataModel.dll
+C:\Users\zhangyulong\source\repos\CoreHost\DataModel\obj\Debug\netcoreapp2.2\DataModel.pdb

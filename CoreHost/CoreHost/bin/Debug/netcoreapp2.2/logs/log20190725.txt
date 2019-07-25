@@ -1,0 +1,259 @@
+[17:48:53.509 Information] 配置web主机 ("TestApp")... ()
+[17:49:33.892 Information] Starting web host ("TestApp")... ()
+[17:49:59.404 Information] hahahah ("12121") ()
+[17:50:36.019 Information] {"Name":"朝木","FirstName":"本雄","LastName":"义博"} ()
+[17:51:45.313 Information] 配置web主机 ("TestApp")... ()
+[17:51:50.738 Information] Starting web host ("TestApp")... ()
+[17:52:23.618 Information] hahahah ("12121") ()
+[17:52:45.171 Information] {"Name":"123","FirstName":"123","LastName":"43534"} ()
+[18:08:08.852 Information] 配置web主机 ("TestApp")... ()
+[18:08:14.218 Information] Starting web host ("TestApp")... ()
+[18:11:18.846 Information] 配置web主机 ("TestApp")... ()
+[18:11:25.048 Information] Starting web host ("TestApp")... ()
+[18:12:02.582 Information] hahahah ("12121") ()
+[18:12:37.553 Error] Connection id ""0HLOGT248OH1A"", Request id ""0HLOGT248OH1A:00000001"": An unhandled exception was thrown by the application. (Microsoft.AspNetCore.Server.Kestrel)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at CoreHost.Tools.ProtobufOutputFormatter.CreateTypeModel() in C:\Users\zhangyulong\source\repos\CoreHost\CoreHost\Tools\ProtobufOutputFormatter.cs:line 37
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+   at System.Lazy`1.ExecutionAndPublication(LazyHelper executionAndPublication, Boolean useDefaultConstructor)
+   at System.Lazy`1.CreateValue()
+   at CoreHost.Tools.ProtobufOutputFormatter.get_Model() in C:\Users\zhangyulong\source\repos\CoreHost\CoreHost\Tools\ProtobufOutputFormatter.cs:line 19
+   at CoreHost.Tools.ProtobufOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context) in C:\Users\zhangyulong\source\repos\CoreHost\CoreHost\Tools\ProtobufOutputFormatter.cs:line 49
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultAsync(IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResultFilterAsync[TFilter,TFilterAsync]()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResultExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultFilters()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+[18:14:54.072 Information] 配置web主机 ("TestApp")... ()
+[18:14:59.703 Information] Starting web host ("TestApp")... ()
+[18:15:32.719 Information] hahahah ("12121") ()
+[18:16:15.207 Error] Connection id ""0HLOGT42JH204"", Request id ""0HLOGT42JH204:00000001"": An unhandled exception was thrown by the application. (Microsoft.AspNetCore.Server.Kestrel)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at CoreHost.Tools.ProtobufOutputFormatter.CreateTypeModel() in C:\Users\zhangyulong\source\repos\CoreHost\CoreHost\Tools\ProtobufOutputFormatter.cs:line 37
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+   at System.Lazy`1.ExecutionAndPublication(LazyHelper executionAndPublication, Boolean useDefaultConstructor)
+   at System.Lazy`1.CreateValue()
+   at CoreHost.Tools.ProtobufOutputFormatter.get_Model() in C:\Users\zhangyulong\source\repos\CoreHost\CoreHost\Tools\ProtobufOutputFormatter.cs:line 19
+   at CoreHost.Tools.ProtobufOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context) in C:\Users\zhangyulong\source\repos\CoreHost\CoreHost\Tools\ProtobufOutputFormatter.cs:line 49
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultAsync(IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResultFilterAsync[TFilter,TFilterAsync]()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResultExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultFilters()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+[18:17:29.745 Information] 配置web主机 ("TestApp")... ()
+[18:18:25.982 Information] Starting web host ("TestApp")... ()
+[18:20:00.902 Information] hahahah ("12121") ()
+[18:21:37.767 Error] Connection id ""0HLOGT6IOGLGN"", Request id ""0HLOGT6IOGLGN:00000001"": An unhandled exception was thrown by the application. (Microsoft.AspNetCore.Server.Kestrel)
+System.InvalidOperationException: Duplicate field-number detected; 1 on: DataModel.TestResponseDto
+   at ProtoBuf.Serializers.TypeSerializer..ctor(TypeModel model, Type forType, Int32[] fieldNumbers, IProtoSerializer[] serializers, MethodInfo[] baseCtorCallbacks, Boolean isRootType, Boolean useConstructor, CallbackSet callbacks, Type constructType, MethodInfo factory) in C:\code\protobuf-net\src\protobuf-net\Serializers\TypeSerializer.cs:line 69
+   at ProtoBuf.Meta.MetaType.BuildSerializer() in C:\code\protobuf-net\src\protobuf-net\Meta\MetaType.cs:line 480
+   at ProtoBuf.Meta.MetaType.get_Serializer() in C:\code\protobuf-net\src\protobuf-net\Meta\MetaType.cs:line 372
+   at ProtoBuf.Meta.RuntimeTypeModel.Serialize(Int32 key, Object value, ProtoWriter dest) in C:\code\protobuf-net\src\protobuf-net\Meta\RuntimeTypeModel.cs:line 787
+   at ProtoBuf.Meta.TypeModel.SerializeCore(ProtoWriter writer, Object value) in C:\code\protobuf-net\src\protobuf-net\Meta\TypeModel.cs:line 198
+   at ProtoBuf.Meta.TypeModel.Serialize(Stream dest, Object value, SerializationContext context) in C:\code\protobuf-net\src\protobuf-net\Meta\TypeModel.cs:line 222
+   at CoreHost.Tools.ProtobufOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context) in C:\Users\zhangyulong\source\repos\CoreHost\CoreHost\Tools\ProtobufOutputFormatter.cs:line 49
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultAsync(IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResultFilterAsync[TFilter,TFilterAsync]()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResultExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultFilters()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+[18:23:17.546 Information] hahahah ("12121") ()
+[18:23:17.723 Error] Connection id ""0HLOGT6IOGLGO"", Request id ""0HLOGT6IOGLGO:00000001"": An unhandled exception was thrown by the application. (Microsoft.AspNetCore.Server.Kestrel)
+System.InvalidOperationException: Duplicate field-number detected; 1 on: DataModel.TestResponseDto
+   at ProtoBuf.Serializers.TypeSerializer..ctor(TypeModel model, Type forType, Int32[] fieldNumbers, IProtoSerializer[] serializers, MethodInfo[] baseCtorCallbacks, Boolean isRootType, Boolean useConstructor, CallbackSet callbacks, Type constructType, MethodInfo factory) in C:\code\protobuf-net\src\protobuf-net\Serializers\TypeSerializer.cs:line 69
+   at ProtoBuf.Meta.MetaType.BuildSerializer() in C:\code\protobuf-net\src\protobuf-net\Meta\MetaType.cs:line 480
+   at ProtoBuf.Meta.MetaType.get_Serializer() in C:\code\protobuf-net\src\protobuf-net\Meta\MetaType.cs:line 372
+   at ProtoBuf.Meta.RuntimeTypeModel.Serialize(Int32 key, Object value, ProtoWriter dest) in C:\code\protobuf-net\src\protobuf-net\Meta\RuntimeTypeModel.cs:line 787
+   at ProtoBuf.Meta.TypeModel.SerializeCore(ProtoWriter writer, Object value) in C:\code\protobuf-net\src\protobuf-net\Meta\TypeModel.cs:line 198
+   at ProtoBuf.Meta.TypeModel.Serialize(Stream dest, Object value, SerializationContext context) in C:\code\protobuf-net\src\protobuf-net\Meta\TypeModel.cs:line 222
+   at CoreHost.Tools.ProtobufOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context) in C:\Users\zhangyulong\source\repos\CoreHost\CoreHost\Tools\ProtobufOutputFormatter.cs:line 49
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultAsync(IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResultFilterAsync[TFilter,TFilterAsync]()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResultExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultFilters()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+[18:24:43.07 Information] 配置web主机 ("TestApp")... ()
+[18:24:48.145 Information] Starting web host ("TestApp")... ()
+[18:25:24.634 Information] hahahah ("12121") ()
+[18:25:24.919 Error] Connection id ""0HLOGT9JPOC5S"", Request id ""0HLOGT9JPOC5S:00000001"": An unhandled exception was thrown by the application. (Microsoft.AspNetCore.Server.Kestrel)
+System.InvalidOperationException: Duplicate field-number detected; 1 on: DataModel.TestResponseDto
+   at ProtoBuf.Serializers.TypeSerializer..ctor(TypeModel model, Type forType, Int32[] fieldNumbers, IProtoSerializer[] serializers, MethodInfo[] baseCtorCallbacks, Boolean isRootType, Boolean useConstructor, CallbackSet callbacks, Type constructType, MethodInfo factory) in C:\code\protobuf-net\src\protobuf-net\Serializers\TypeSerializer.cs:line 69
+   at ProtoBuf.Meta.MetaType.BuildSerializer() in C:\code\protobuf-net\src\protobuf-net\Meta\MetaType.cs:line 480
+   at ProtoBuf.Meta.MetaType.get_Serializer() in C:\code\protobuf-net\src\protobuf-net\Meta\MetaType.cs:line 372
+   at ProtoBuf.Meta.RuntimeTypeModel.Serialize(Int32 key, Object value, ProtoWriter dest) in C:\code\protobuf-net\src\protobuf-net\Meta\RuntimeTypeModel.cs:line 787
+   at ProtoBuf.Meta.TypeModel.SerializeCore(ProtoWriter writer, Object value) in C:\code\protobuf-net\src\protobuf-net\Meta\TypeModel.cs:line 198
+   at ProtoBuf.Meta.TypeModel.Serialize(Stream dest, Object value, SerializationContext context) in C:\code\protobuf-net\src\protobuf-net\Meta\TypeModel.cs:line 222
+   at CoreHost.Tools.ProtobufOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context) in C:\Users\zhangyulong\source\repos\CoreHost\CoreHost\Tools\ProtobufOutputFormatter.cs:line 50
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultAsync(IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResultFilterAsync[TFilter,TFilterAsync]()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResultExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultFilters()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+[18:27:29.47 Information] 配置web主机 ("TestApp")... ()
+[18:27:36.667 Information] Starting web host ("TestApp")... ()
+[18:29:22.988 Information] 配置web主机 ("TestApp")... ()
+[18:29:29.372 Information] Starting web host ("TestApp")... ()
+[18:30:10.116 Information] 配置web主机 ("TestApp")... ()
+[18:30:15.951 Information] Starting web host ("TestApp")... ()
+[18:30:29.986 Information] hahahah ("12121") ()
+[18:30:30.277 Error] Connection id ""0HLOGTCEPT493"", Request id ""0HLOGTCEPT493:00000001"": An unhandled exception was thrown by the application. (Microsoft.AspNetCore.Server.Kestrel)
+System.InvalidOperationException: Duplicate field-number detected; 1 on: DataModel.TestResponseDto
+   at ProtoBuf.Serializers.TypeSerializer..ctor(TypeModel model, Type forType, Int32[] fieldNumbers, IProtoSerializer[] serializers, MethodInfo[] baseCtorCallbacks, Boolean isRootType, Boolean useConstructor, CallbackSet callbacks, Type constructType, MethodInfo factory) in C:\code\protobuf-net\src\protobuf-net\Serializers\TypeSerializer.cs:line 69
+   at ProtoBuf.Meta.MetaType.BuildSerializer() in C:\code\protobuf-net\src\protobuf-net\Meta\MetaType.cs:line 480
+   at ProtoBuf.Meta.MetaType.get_Serializer() in C:\code\protobuf-net\src\protobuf-net\Meta\MetaType.cs:line 372
+   at ProtoBuf.Meta.RuntimeTypeModel.Serialize(Int32 key, Object value, ProtoWriter dest) in C:\code\protobuf-net\src\protobuf-net\Meta\RuntimeTypeModel.cs:line 787
+   at ProtoBuf.Meta.TypeModel.SerializeCore(ProtoWriter writer, Object value) in C:\code\protobuf-net\src\protobuf-net\Meta\TypeModel.cs:line 198
+   at ProtoBuf.Meta.TypeModel.Serialize(Stream dest, Object value, SerializationContext context) in C:\code\protobuf-net\src\protobuf-net\Meta\TypeModel.cs:line 222
+   at CoreHost.Tools.ProtobufOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context) in C:\Users\zhangyulong\source\repos\CoreHost\CoreHost\Tools\ProtobufOutputFormatter.cs:line 50
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultAsync(IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResultFilterAsync[TFilter,TFilterAsync]()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResultExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultFilters()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+[18:30:55.243 Information] hahahah ("12121") ()
+[18:31:02.871 Error] Connection id ""0HLOGTCEPT494"", Request id ""0HLOGTCEPT494:00000001"": An unhandled exception was thrown by the application. (Microsoft.AspNetCore.Server.Kestrel)
+System.InvalidOperationException: Duplicate field-number detected; 1 on: DataModel.TestResponseDto
+   at ProtoBuf.Serializers.TypeSerializer..ctor(TypeModel model, Type forType, Int32[] fieldNumbers, IProtoSerializer[] serializers, MethodInfo[] baseCtorCallbacks, Boolean isRootType, Boolean useConstructor, CallbackSet callbacks, Type constructType, MethodInfo factory) in C:\code\protobuf-net\src\protobuf-net\Serializers\TypeSerializer.cs:line 69
+   at ProtoBuf.Meta.MetaType.BuildSerializer() in C:\code\protobuf-net\src\protobuf-net\Meta\MetaType.cs:line 480
+   at ProtoBuf.Meta.MetaType.get_Serializer() in C:\code\protobuf-net\src\protobuf-net\Meta\MetaType.cs:line 372
+   at ProtoBuf.Meta.RuntimeTypeModel.Serialize(Int32 key, Object value, ProtoWriter dest) in C:\code\protobuf-net\src\protobuf-net\Meta\RuntimeTypeModel.cs:line 787
+   at ProtoBuf.Meta.TypeModel.SerializeCore(ProtoWriter writer, Object value) in C:\code\protobuf-net\src\protobuf-net\Meta\TypeModel.cs:line 198
+   at ProtoBuf.Meta.TypeModel.Serialize(Stream dest, Object value, SerializationContext context) in C:\code\protobuf-net\src\protobuf-net\Meta\TypeModel.cs:line 222
+   at CoreHost.Tools.ProtobufOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context) in C:\Users\zhangyulong\source\repos\CoreHost\CoreHost\Tools\ProtobufOutputFormatter.cs:line 50
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultAsync(IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResultFilterAsync[TFilter,TFilterAsync]()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResultExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultFilters()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+[18:31:17.876 Information] hahahah ("12121") ()
+[18:31:34.347 Error] Connection id ""0HLOGTCEPT495"", Request id ""0HLOGTCEPT495:00000001"": An unhandled exception was thrown by the application. (Microsoft.AspNetCore.Server.Kestrel)
+System.InvalidOperationException: Duplicate field-number detected; 1 on: DataModel.TestResponseDto
+   at ProtoBuf.Serializers.TypeSerializer..ctor(TypeModel model, Type forType, Int32[] fieldNumbers, IProtoSerializer[] serializers, MethodInfo[] baseCtorCallbacks, Boolean isRootType, Boolean useConstructor, CallbackSet callbacks, Type constructType, MethodInfo factory) in C:\code\protobuf-net\src\protobuf-net\Serializers\TypeSerializer.cs:line 69
+   at ProtoBuf.Meta.MetaType.BuildSerializer() in C:\code\protobuf-net\src\protobuf-net\Meta\MetaType.cs:line 480
+   at ProtoBuf.Meta.MetaType.get_Serializer() in C:\code\protobuf-net\src\protobuf-net\Meta\MetaType.cs:line 372
+   at ProtoBuf.Meta.RuntimeTypeModel.Serialize(Int32 key, Object value, ProtoWriter dest) in C:\code\protobuf-net\src\protobuf-net\Meta\RuntimeTypeModel.cs:line 787
+   at ProtoBuf.Meta.TypeModel.SerializeCore(ProtoWriter writer, Object value) in C:\code\protobuf-net\src\protobuf-net\Meta\TypeModel.cs:line 198
+   at ProtoBuf.Meta.TypeModel.Serialize(Stream dest, Object value, SerializationContext context) in C:\code\protobuf-net\src\protobuf-net\Meta\TypeModel.cs:line 222
+   at CoreHost.Tools.ProtobufOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context) in C:\Users\zhangyulong\source\repos\CoreHost\CoreHost\Tools\ProtobufOutputFormatter.cs:line 50
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultAsync(IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResultFilterAsync[TFilter,TFilterAsync]()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResultExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultFilters()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+[18:33:16.905 Information] 配置web主机 ("TestApp")... ()
+[18:33:21.926 Information] Starting web host ("TestApp")... ()
+[18:33:40.755 Information] hahahah ("12121") ()
+[18:35:12.125 Error] Connection id ""0HLOGTE73V6SG"", Request id ""0HLOGTE73V6SG:00000001"": An unhandled exception was thrown by the application. (Microsoft.AspNetCore.Server.Kestrel)
+System.InvalidOperationException: Duplicate field-number detected; 1 on: DataModel.TestResponseDto
+   at ProtoBuf.Serializers.TypeSerializer..ctor(TypeModel model, Type forType, Int32[] fieldNumbers, IProtoSerializer[] serializers, MethodInfo[] baseCtorCallbacks, Boolean isRootType, Boolean useConstructor, CallbackSet callbacks, Type constructType, MethodInfo factory) in C:\code\protobuf-net\src\protobuf-net\Serializers\TypeSerializer.cs:line 69
+   at ProtoBuf.Meta.MetaType.BuildSerializer() in C:\code\protobuf-net\src\protobuf-net\Meta\MetaType.cs:line 480
+   at ProtoBuf.Meta.MetaType.get_Serializer() in C:\code\protobuf-net\src\protobuf-net\Meta\MetaType.cs:line 372
+   at ProtoBuf.Meta.RuntimeTypeModel.Serialize(Int32 key, Object value, ProtoWriter dest) in C:\code\protobuf-net\src\protobuf-net\Meta\RuntimeTypeModel.cs:line 787
+   at ProtoBuf.Meta.TypeModel.SerializeCore(ProtoWriter writer, Object value) in C:\code\protobuf-net\src\protobuf-net\Meta\TypeModel.cs:line 198
+   at ProtoBuf.Meta.TypeModel.Serialize(Stream dest, Object value, SerializationContext context) in C:\code\protobuf-net\src\protobuf-net\Meta\TypeModel.cs:line 222
+   at CoreHost.Tools.ProtobufOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context) in C:\Users\zhangyulong\source\repos\CoreHost\CoreHost\Tools\ProtobufOutputFormatter.cs:line 50
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultAsync(IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResultFilterAsync[TFilter,TFilterAsync]()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResultExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultFilters()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+[20:40:26.325 Information] 配置web主机 ("TestApp")... ()
+[20:40:33.987 Information] Starting web host ("TestApp")... ()
+[20:43:47.684 Information] hahahah ("12121") ()
+[20:44:52.336 Error] Connection id ""0HLOGVMTT65K7"", Request id ""0HLOGVMTT65K7:00000001"": An unhandled exception was thrown by the application. (Microsoft.AspNetCore.Server.Kestrel)
+System.InvalidOperationException: Duplicate field-number detected; 1 on: DataModel.TestResponseDto
+   at ProtoBuf.Serializers.TypeSerializer..ctor(TypeModel model, Type forType, Int32[] fieldNumbers, IProtoSerializer[] serializers, MethodInfo[] baseCtorCallbacks, Boolean isRootType, Boolean useConstructor, CallbackSet callbacks, Type constructType, MethodInfo factory) in C:\code\protobuf-net\src\protobuf-net\Serializers\TypeSerializer.cs:line 69
+   at ProtoBuf.Meta.MetaType.BuildSerializer() in C:\code\protobuf-net\src\protobuf-net\Meta\MetaType.cs:line 480
+   at ProtoBuf.Meta.MetaType.get_Serializer() in C:\code\protobuf-net\src\protobuf-net\Meta\MetaType.cs:line 372
+   at ProtoBuf.Meta.RuntimeTypeModel.Serialize(Int32 key, Object value, ProtoWriter dest) in C:\code\protobuf-net\src\protobuf-net\Meta\RuntimeTypeModel.cs:line 787
+   at ProtoBuf.Meta.TypeModel.SerializeCore(ProtoWriter writer, Object value) in C:\code\protobuf-net\src\protobuf-net\Meta\TypeModel.cs:line 198
+   at ProtoBuf.Meta.TypeModel.Serialize(Stream dest, Object value, SerializationContext context) in C:\code\protobuf-net\src\protobuf-net\Meta\TypeModel.cs:line 222
+   at CoreHost.Tools.ProtobufOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context) in C:\Users\zhangyulong\source\repos\CoreHost\CoreHost\Tools\ProtobufOutputFormatter.cs:line 50
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultAsync(IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResultFilterAsync[TFilter,TFilterAsync]()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResultExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultFilters()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+[20:46:45.758 Information] 配置web主机 ("TestApp")... ()
+[20:46:52.568 Information] Starting web host ("TestApp")... ()
+[20:47:24.837 Information] hahahah ("12121") ()

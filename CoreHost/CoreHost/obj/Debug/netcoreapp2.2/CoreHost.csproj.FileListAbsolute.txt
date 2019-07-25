@@ -1,0 +1,15 @@
+C:\Users\zhangyulong\source\repos\CoreHost\CoreHost\bin\Debug\netcoreapp2.2\CoreHost.deps.json
+C:\Users\zhangyulong\source\repos\CoreHost\CoreHost\bin\Debug\netcoreapp2.2\CoreHost.runtimeconfig.json
+C:\Users\zhangyulong\source\repos\CoreHost\CoreHost\bin\Debug\netcoreapp2.2\CoreHost.runtimeconfig.dev.json
+C:\Users\zhangyulong\source\repos\CoreHost\CoreHost\bin\Debug\netcoreapp2.2\CoreHost.dll
+C:\Users\zhangyulong\source\repos\CoreHost\CoreHost\obj\Debug\netcoreapp2.2\CoreHost.csproj.CoreCompileInputs.cache
+C:\Users\zhangyulong\source\repos\CoreHost\CoreHost\obj\Debug\netcoreapp2.2\CoreHost.AssemblyInfoInputs.cache
+C:\Users\zhangyulong\source\repos\CoreHost\CoreHost\obj\Debug\netcoreapp2.2\CoreHost.AssemblyInfo.cs
+C:\Users\zhangyulong\source\repos\CoreHost\CoreHost\obj\Debug\netcoreapp2.2\CoreHost.csprojAssemblyReference.cache
+C:\Users\zhangyulong\source\repos\CoreHost\CoreHost\bin\Debug\netcoreapp2.2\CoreHost.pdb
+C:\Users\zhangyulong\source\repos\CoreHost\CoreHost\obj\Debug\netcoreapp2.2\CoreHost.dll
+C:\Users\zhangyulong\source\repos\CoreHost\CoreHost\obj\Debug\netcoreapp2.2\CoreHost.pdb
+C:\Users\zhangyulong\source\repos\CoreHost\CoreHost\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\zhangyulong\source\repos\CoreHost\CoreHost\bin\Debug\netcoreapp2.2\DataModel.dll
+C:\Users\zhangyulong\source\repos\CoreHost\CoreHost\bin\Debug\netcoreapp2.2\DataModel.pdb
+C:\Users\zhangyulong\source\repos\CoreHost\CoreHost\obj\Debug\netcoreapp2.2\CoreHost.csproj.CopyComplete
